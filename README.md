@@ -1,14 +1,14 @@
 # ascii_cam
 
-ascii_cam is a Python toy to display a camera feed in ascii in the windows terminal
+ascii_cam is a Python toy to display a camera feed in ascii in the windows terminal.
 
 ## Installation
 
 Clone the repository, install the requirements and enjoy !
 
 ```bash
-git@github.com:thorn-ale/ascii-cam.git
-cd ascii_cam
+git clone https://github.com/thorn-ale/ascii-cam.git
+cd ascii-cam
 pip install -r requirements.txt
 ```
 
